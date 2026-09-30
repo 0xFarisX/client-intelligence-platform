@@ -1,0 +1,9 @@
+{
+  "client": "fictional-301",
+  "match_tier": "phone_then_business",
+  "match_confidence": "strong",
+  "ownership_state": "excluded",
+  "suppression_state": "none",
+  "export_eligible": false
+}
+
